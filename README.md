@@ -16,8 +16,13 @@ Model Diagnostics and Classification Accuracy (using R):
 
 
 Team members
-Ashim Bhattarai
-Rodrigo Tejeida Estrada
-Sardhendu Mishra
-Anil Simon
-Master of Data Science, Illinois Institute of Technology
+
+  Ashim Bhattarai
+  
+  Rodrigo Tejeida Estrada
+  
+  Sardhendu Mishra
+  
+  Anil Simon
+
+  Master of Data Science Candidates, Illinois Institute of Technology
