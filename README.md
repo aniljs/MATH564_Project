@@ -13,3 +13,11 @@ Cleaning and Feature selection (using R):
 Model Diagnostics and Classification Accuracy (using R):
   1. Both models preformed well on the training dataset in terms of model diagnostics (error rate, expected proportion of correct predictions (ePCP), deviance, and the receiver operating characteristic curve (ROC Curve). However, the AIC model nominally outperformed the BIC model on all of the indicators, albeit only marginally.
   2. In terms of classification of outcomes on the test-set, the AIC model had an accuracy of 97.59% while the BIC model had an accuracy of 97.51%.less
+
+
+Team members
+Ashim Bhattarai
+Rodrigo Tejeida Estrada
+Sardhendu Mishra
+Anil Simon
+Master of Data Science, Illinois Institute of Technology
